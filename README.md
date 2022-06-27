@@ -15,14 +15,14 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode Logo" width="70" height="70" />
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="70" height="70"/> 
 </p>
-#### My GitHub Stats
+ #### My GitHub Stats
 
 [![Ravindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravindra-shastri&iclude_all_commits=true&hide=stars&count_private=true&show_icons=true&theme=synthwave)](https://github.com/ravindra-shastri/github-readme-stats)|[![Total](https://github-readme-streak-stats.herokuapp.com/?user=ravindra-shastri&theme=synthwave)](https://github.com/ravindra-shastri/github-readme-stats)
 |---|---|
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindra-shastri&hide=CSS,ruby,shell,pug&layout=compact&theme=synthwave)](https://github.com/ravindra-shastri/github-readme-stats) -->
 
 
-### Reach Me 
+### Get in touch with 
 <a href="mailto:ravindrashastri90@gmail.com" target="_blank">
  <img src="https://img.icons8.com/color/344/gmail-new.png" alt="Gmail Logo" width="30"/> 
 </a>          
