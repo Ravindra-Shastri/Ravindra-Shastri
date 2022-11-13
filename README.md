@@ -26,7 +26,7 @@
 <a href="mailto:ravindrashastri90@gmail.com" target="_blank">
  <img src="https://img.icons8.com/color/344/gmail-new.png" alt="Gmail Logo" width="30"/> 
 </a>          
-<a href="https://www.linkedin.com/in/ravindra-shastri-3942a720b/" target="_blank">
+<a href="https://www.linkedin.com/in/ravindra-shastri/" target="_blank">
  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="30"/>
 </a>
 <a href="https://twitter.com/ravindrashast13" target="_blank">
